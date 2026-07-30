@@ -41,7 +41,8 @@ from transformers import AutoTokenizer
 Use the following text:
 
 ```python
-text = "Large Language Models are changing AI."
+text1 = "Large Language Models are changing AI."
+text2 = "人工智能很可怕吗"
 ```
 
 Load the GPT-2 and BERT tokenizers:
@@ -57,7 +58,7 @@ Complete the following tasks:
 2. Encode the text using GPT-2 and print the token IDs.
 3. Tokenize the same text using BERT and print the tokens.
 4. Encode the text using BERT and print the token IDs.
-5. Create a Markdown table comparing the two tokenizers.
+5. Create a Markdown table comparing the two tokenizers for each text.
 
 Your table should include:
 
