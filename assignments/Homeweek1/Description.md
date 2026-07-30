@@ -100,7 +100,7 @@ Complete the following tasks:
 1. Convert the corpus to lowercase and split it into words.
 2. Create `word_to_id` and `id_to_word` dictionaries.
 3. Convert each sentence to a sequence of word IDs.
-4. Generate inputâ€“target pairs for next-word prediction.
+4. Generate input-target pairs for next-word prediction.
 5. Pad input sequences to the same length.
 6. Split the data into training and validation sets.
 7. Use `TensorDataset` and `DataLoader` to prepare the data for PyTorch training.
