@@ -26,7 +26,7 @@ Rename your completed notebook:
 LastName_FirstName_Homework1.ipynb
 ```
 
-Submit it through the course submission system by **[insert due date and time]**. Your notebook must run from top to bottom without errors.
+Submit it through the course submission system by **Sep 21st, 2026**. Your notebook must run from top to bottom without errors.
 
 ## Part 1: Tokenization with GPT-2 and BERT
 
