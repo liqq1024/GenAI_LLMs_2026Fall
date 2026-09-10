@@ -223,7 +223,7 @@ Include the generated outputs from both models and briefly state which continuat
 
 ## Part 8: Reflection
 
-In a final Markdown cell, write a reflection of approximately 150â€“250 words addressing:
+In a final Markdown cell, write a reflection of approximately 250 words addressing:
 
 - what you learned about tokenization and token IDs;
 - how embeddings represent words for a neural network;
