@@ -1,4 +1,4 @@
-# Homework 2: Implement a Simplified Decoder-Only Transformer
+# Homework 2 Description: Implement a Simplified Decoder-Only Transformer
 
 ## Overview
 
