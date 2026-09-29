@@ -1,0 +1,25 @@
+language models learn patterns from text data
+attention helps a model connect related words
+transformers process tokens with self attention
+causal masking prevents a model from seeing future tokens
+decoder models predict the next token in a sequence
+token embeddings represent words as dense vectors
+positional embeddings tell the model where tokens appear
+the model reads previous tokens before predicting a new token
+training data influences what a language model can learn
+small datasets can cause repetitive generated text
+attention weights show which tokens are relevant
+multi head attention can learn different relationships
+residual connections help information flow through a network
+layer normalization stabilizes transformer training
+feed forward layers transform each token representation
+the decoder uses a causal mask during language modeling
+the model predicts one token after another
+better data can improve generated text quality
+large language models require substantial computing resources
+transformers are useful for many language tasks
+students study how decoder only transformers generate text
+the simplified model learns from a small classroom corpus
+autoregressive generation uses earlier tokens as context
+the next token depends on the tokens that came before it
+causal attention makes generation possible without future information
