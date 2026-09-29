@@ -37,7 +37,7 @@ LastName_FirstName_Homework2.ipynb
 LastName_FirstName_Homework2_Report.pdf
 ~~~
 
-Submit both files through the course submission system by **[insert due date and time]**. Your notebook must run from top to bottom without errors, and all required outputs, plots, and generated-text examples must be visible.
+Submit both files through the course submission system by **11:59PM October 12th, 2026**. Your notebook must run from top to bottom without errors, and all required outputs, plots, and generated-text examples must be visible.
 
 ## Task 1: Prepare the Dataset for Next-Token Prediction
 
