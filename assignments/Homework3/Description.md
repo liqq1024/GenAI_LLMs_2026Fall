@@ -6,7 +6,7 @@ Can prompt design and decoding improve professional-tone rewriting, and does LoR
 
 ### Provided resources
 - `train.csv`: 160 **synthetic** training pairs; `test.csv`: 20 held-out pairs. These are instructional examples, not human-rated ground truth.
-- `HW3_4_Colab_Starter.ipynb`: tested-workflow starter (requires a Colab GPU and first-run downloads).
+- `HW3_4_Colab_Student_Starter.ipynb`: tested-workflow starter (requires a Colab GPU and first-run downloads).
 - `evaluation.py`: format-compliance calculation, output comparison and human-scoring template.
 - `human_ratings_template.csv`: blank manual-scoring worksheet; `results_template.csv`: output collection schema.
 - Recommended model: `Qwen/Qwen2.5-0.5B-Instruct`, Hugging Face open-weight model. Check its license and terms before redistribution. The notebook downloads it from Hugging Face; model weights are not included.
